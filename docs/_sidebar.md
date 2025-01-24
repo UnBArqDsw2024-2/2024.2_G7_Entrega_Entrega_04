@@ -1,10 +1,12 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [Sobre o projeto](/)
+- [Código de Conduta](/CodigoConduta.md)
+- [Guia de Contribuição](/GuiaContribuicao.md)
+- [Template](/Template.md)
+- [Projetos](/Projeto/Projeto.md)
 
-- **Arquitetura de Software & Reutilização (Vale Até um Ponto na Média Ponderada - Vide Plano de Ensino)**
-  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
+- **Arquitetura de Software & Reutilização**
+  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. DAS](/docs/ArquiteturaReutilizacao/4.1.DAS.md)
-    - [4.2. Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
-    - [4.3. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+    - [4.2. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.2.ParticipacoesArqReutilizacao.md)
