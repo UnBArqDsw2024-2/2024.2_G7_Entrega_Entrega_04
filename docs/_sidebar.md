@@ -6,6 +6,6 @@
 - [Template](/Template.md)
 
 - **Arquitetura de Software & Reutilização**
-  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
+  - **4. Desenho de Software (Arquitetura & Reutilização de Software)**
     - [4.1. DAS](/ArquiteturaReutilizacao/4.1.DAS.md)
     - [4.2. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.2.ParticipacoesArqReutilizacao.md)

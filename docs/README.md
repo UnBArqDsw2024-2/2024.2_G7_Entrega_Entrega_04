@@ -34,7 +34,8 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 <center>
 
-
+![componentes](./ArquiteturaReutilizacao/assets/diagrama-componentes.png)
+![estrutura-codigo](./ArquiteturaReutilizacao/assets/estrutura-codigo.png)
 
 </center>
 
